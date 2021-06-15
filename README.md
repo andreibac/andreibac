@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreibac
-- 👀 I’m interested in python, postresql and linux.
+- 👀 I’m interested in python, postqresql and linux.
 - 🌱 I’m currently learning postgresql.
 - 💞️ I’m looking to collaborate in the next future on fiver.
 - 📫 How to reach me? My email is baciu.andrei.iulian@gmail.com
